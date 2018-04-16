@@ -1,0 +1,8 @@
+Collision velocity threshold
+Fixed rotation
+Continuous collision detection
+Linear drag = 0.3
+
+TODO: 
+damage source A->B->C ?
+Self control time?
